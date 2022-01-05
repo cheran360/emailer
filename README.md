@@ -2,7 +2,8 @@
 user friendly emailer application api about temperature of a certain city
 
 creds for admin pannel
-username : 
+username : 'cherankumar'
+password: '1234'
 
 1. login to admin pannel by <homepage>/admin through your browser
 2. enter add email and set name, city, gmail of client
