@@ -9,4 +9,4 @@ username :
 3. click submit and email will go to your client with present temperature of that city
 4. saved data can be saved in admin pannel itself
 
-Note if u want to run through code editor, inter -> 'cd emailer' then enter 'python manage.py runserver'.
+Note if u want to run through code editor, from root dir of this repo 'cd emailer' then enter 'python manage.py runserver'.
